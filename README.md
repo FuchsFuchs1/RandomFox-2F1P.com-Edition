@@ -6,4 +6,4 @@ RandomFox Hostnetwork.xyz Edition a project i made for no reason… idk why. lol
 
 ##### Discord
 
-[<img src="https://discordapp.com/api/guilds/922184735168540712/widget.png?style=banner3">](https://x-bot.app/discord)
+[<img src="https://discord.com/api/guilds/922184735168540712/widget.json?style=banner3">](https://x-bot.app/discord)

@@ -6,4 +6,5 @@ RandomFox Hostnetwork.xyz Edition a project i made for no reason… idk why. lol
 
 ##### Discord
 
-[<img src="https://discord.com/api/guilds/922184735168540712/widget.png?style=banner3">](https://x-bot.app/discord)
+[<img src="https://discord.com/api/guilds/922184735168540712/widget.png?style=banner3">](g2E5f7wnrV)
+<iframe src="https://discord.com/widget?id=922184735168540712&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

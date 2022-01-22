@@ -90,7 +90,7 @@ if ($files) {
 <p>Submit more foxes?<br />Here: <a href="https://github.com/xinitrc-ls/randomfox.ca" target="_blank">GitHub</a> or <a href="mailto:x-bot@x-hub.co?subject=Fox Pictures Upload Request">Email</a><br />or Here: GitHub or <a href="mailto:fox@2f1p.hostnetwork.xyz?subject=Fox Pictures Upload Request">Email</a></p>
 <p>API is Available: <a href="https://www.hostnetwork.xyz/randomfox/fox-api">https://www.hostnetwork.xyz/randomfox/fox-api</a></p>
 </div>
-<a id="fox_full_link" href="https://randomfox.ca/?i=&lt;?= $random_fox_index ?&gt;"> <img src="https://randomfox.ca/images/&lt;?= $random_fox_index ?&gt;.jpg" alt="" width="1000" id="fox_img_link" style="visibility: hidden;" title="" /> </a>
+<a id="fox_full_link" href="https://www.hostnetwork.xyz/randomfox/?i=&lt;?= $random_fox_index ?&gt;"> <img src="https://www.hostnetwork.xyz/randomfox/images/&lt;?= $random_fox_index ?&gt;.jpg" alt="" width="1000" id="fox_img_link" style="visibility: hidden;" title="" /> </a>
 <div id="footer">
 <p>Original made by: <a href="https://x-bot.app/discord">xinitrc</a></p>
 <p>Original web: <a href="https://randomfox.ca">https://randomfox.ca</a></p>
